@@ -1,0 +1,26 @@
+{
+  "name": "modality-polyfill",
+  "version": "0.0.1",
+  "description": "Experimenting with being explicit about user modality",
+  "main": "src/keyboard-modality.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WICG/modality/modality.git"
+  },
+  "keywords": [
+    "modality",
+    "keyboard"
+  ],
+  "author": "WICG",
+  "license": "W3C",
+  "bugs": {
+    "url": "https://github.com/WICG/modality/issues"
+  },
+  "homepage": "https://github.com/WICG/modality#readme"
+}
